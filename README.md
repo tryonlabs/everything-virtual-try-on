@@ -1,4 +1,4 @@
-# Everything About Virtual Try-On (VTON)
+# Everything Virtual Try-On (VTON)
 A complete list of awesome research papers, projects, code, demos, datasets, videos, books, 
 workshops, APIs etc. for virtual try-on (VTON).
 
@@ -35,7 +35,7 @@ workshops, APIs etc. for virtual try-on (VTON).
 #### Research Paper: https://arxiv.org/abs/2312.01725
 #### Implementation: https://github.com/rlawjdghek/StableVITON
 #### Demo Video: https://www.youtube.com/watch?v=x3k4u7F4ReA
-
+###
 ### Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Images
 #### Website: https://cuiaiyu.github.io/StreetTryOn/
 #### Benchmark Repo: https://github.com/cuiaiyu/street-tryon-benchmark
@@ -50,7 +50,7 @@ workshops, APIs etc. for virtual try-on (VTON).
 ### DCI-VTON: Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow
 #### Research Paper: https://arxiv.org/abs/2308.06101
 #### Implementation: https://github.com/bcmi/DCI-VTON-Virtual-Try-On
-
+###
 ### StableGarment: Garment-Centric Generation via Stable Diffusion
 #### Website: https://raywang335.github.io/stablegarment.github.io/
 #### Research Paper: https://arxiv.org/abs/2403.10783
@@ -93,13 +93,13 @@ workshops, APIs etc. for virtual try-on (VTON).
 ### DM-VTON: Distilled Mobile Real-time Virtual Try-On
 #### Research Paper: https://arxiv.org/abs/2308.13798
 #### Implementation: https://github.com/KiseKloset/DM-VTON
-
+###
 ## Image (3D) Virtual Try-On
 
 ### GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting
 #### Research Paper: https://arxiv.org/abs/2405.07472
 #### Implementation: https://github.com/HaroldChen19/GaussianVTON
-
+###
 ## Image (2D) (Multi-View) Virtual Try-On
 
 ### MV-VTON: Multi-View Virtual Try-On with Diffusion Models
