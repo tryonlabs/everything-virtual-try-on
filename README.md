@@ -93,7 +93,11 @@ workshops, APIs etc. for virtual try-on (VTON).
 ### DM-VTON: Distilled Mobile Real-time Virtual Try-On
 #### Research Paper: https://arxiv.org/abs/2308.13798
 #### Implementation: https://github.com/KiseKloset/DM-VTON
-###
+
+### PICTURE: PhotorealistIC virtual Try-on from UnconstRained dEsigns
+#### Research Paper: https://arxiv.org/abs/2312.04534
+#### Implementation: https://github.com/GAP-LAB-CUHK-SZ/PICTURE
+
 ## Image (3D) Virtual Try-On
 
 ### GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting
